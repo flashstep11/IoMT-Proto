@@ -1,4 +1,4 @@
-# IoMT-Proto
+# Zzz
 
 Lightweight prototype for an IoT + EHR medical monitoring demo (Streamlit).
 
@@ -68,5 +68,3 @@ The repository includes several Jupyter notebooks (e.g., `01_end_to_end_diabetes
 - This repo is a prototype/demo: predictions are for demonstration only and must not be used for real clinical decision making.
 
 ---
-
-If you want, I can also add a `requirements.txt` and a one-line `run.ps1` helper script to simplify the commands. Would you like that?
