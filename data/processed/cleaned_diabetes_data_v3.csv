@@ -1,0 +1,1172 @@
+AGE,BMI,SYSTOLIC_BP,DIASTOLIC_BP,TOTAL_CHOLESTEROL,SMOKING_STATUS,DIABETES
+12,16.1,143.0,81.0,177.6,Never smoked tobacco (finding),0
+67,27.5,131.0,86.0,183.7,Never smoked tobacco (finding),0
+56,27.3,132.0,81.0,131.2,Never smoked tobacco (finding),0
+31,28.0,130.0,77.0,273.6,Never smoked tobacco (finding),0
+4,16.9,107.0,91.0,177.6,Never smoked tobacco (finding),0
+69,30.4,109.0,71.0,197.6,Ex-smoker (finding),0
+19,23.0,113.0,75.0,177.6,Never smoked tobacco (finding),0
+34,29.9,142.0,78.0,194.8,Never smoked tobacco (finding),0
+12,24.4,124.0,89.0,177.6,Never smoked tobacco (finding),0
+29,25.5,130.0,70.0,177.6,Never smoked tobacco (finding),0
+8,16.1,109.0,69.0,177.6,Never smoked tobacco (finding),0
+28,28.2,127.0,80.0,177.6,Never smoked tobacco (finding),0
+41,27.9,118.0,84.0,191.0,Never smoked tobacco (finding),0
+11,15.0,130.0,79.0,177.6,Never smoked tobacco (finding),0
+54,29.8,108.5,65.4,177.6,Ex-smoker (finding),0
+15,22.1,111.0,79.0,177.6,Never smoked tobacco (finding),0
+5,15.2,115.0,76.0,177.6,Never smoked tobacco (finding),0
+54,27.6,139.0,100.0,177.6,Never smoked tobacco (finding),1
+61,28.0,111.0,79.0,171.0,Never smoked tobacco (finding),0
+31,28.9,138.0,84.0,329.7,Never smoked tobacco (finding),0
+37,36.4,107.0,84.0,283.8,Never smoked tobacco (finding),0
+71,28.2,137.0,70.0,150.9,Never smoked tobacco (finding),0
+2,27.8,113.0,80.0,177.6,Never smoked tobacco (finding),0
+31,26.3,102.0,64.0,202.0,Ex-smoker (finding),0
+50,29.5,112.0,67.0,136.4,Never smoked tobacco (finding),0
+54,28.1,143.0,76.0,160.9,Ex-smoker (finding),0
+68,30.5,122.0,78.0,189.0,Never smoked tobacco (finding),0
+47,15.2,138.0,83.0,177.6,Never smoked tobacco (finding),0
+5,16.1,135.0,83.0,177.6,Never smoked tobacco (finding),0
+77,27.5,111.0,51.0,161.5,Ex-smoker (finding),0
+52,27.7,100.0,89.0,193.6,Never smoked tobacco (finding),0
+2,27.8,123.0,77.0,177.6,Never smoked tobacco (finding),0
+50,29.1,117.0,85.0,208.1,Ex-smoker (finding),0
+48,21.7,116.0,73.0,197.3,Never smoked tobacco (finding),0
+47,37.7,130.0,75.0,177.6,Never smoked tobacco (finding),0
+59,30.3,153.0,74.0,168.0,Ex-smoker (finding),0
+68,27.3,110.0,61.0,196.5,Never smoked tobacco (finding),0
+44,30.2,129.0,90.0,174.8,Never smoked tobacco (finding),0
+77,30.4,114.0,62.0,206.4,Ex-smoker (finding),0
+45,30.2,112.0,80.0,201.6,Never smoked tobacco (finding),0
+5,18.2,129.0,82.0,177.6,Never smoked tobacco (finding),0
+29,25.8,128.0,66.0,177.6,Never smoked tobacco (finding),0
+76,30.2,128.0,65.0,299.0,Ex-smoker (finding),0
+68,29.6,102.0,56.0,179.3,Never smoked tobacco (finding),1
+47,30.4,103.0,72.0,142.1,Ex-smoker (finding),0
+62,29.1,106.0,82.0,204.4,Never smoked tobacco (finding),0
+67,28.1,136.0,88.0,165.4,Never smoked tobacco (finding),0
+56,28.0,115.0,63.0,153.3,Never smoked tobacco (finding),0
+74,29.1,135.0,90.0,221.1,Ex-smoker (finding),0
+19,19.8,117.0,81.0,177.6,Never smoked tobacco (finding),0
+24,18.9,127.0,78.0,177.6,Ex-smoker (finding),0
+40,27.7,146.0,80.0,158.2,Never smoked tobacco (finding),0
+58,27.9,135.0,73.0,170.6,Never smoked tobacco (finding),0
+32,30.5,96.0,79.0,296.1,Never smoked tobacco (finding),0
+80,27.4,134.0,78.0,153.6,Never smoked tobacco (finding),1
+42,27.5,118.0,78.0,132.0,Ex-smoker (finding),0
+12,16.0,105.0,65.0,177.6,Never smoked tobacco (finding),0
+8,17.8,113.0,77.0,177.6,Never smoked tobacco (finding),0
+19,28.2,94.0,71.0,177.6,Ex-smoker (finding),0
+52,30.3,135.0,79.0,188.9,Ex-smoker (finding),0
+35,30.4,124.0,86.0,193.8,Ex-smoker (finding),0
+56,28.1,120.0,63.0,260.6,Never smoked tobacco (finding),0
+26,22.7,125.0,69.0,177.6,Never smoked tobacco (finding),0
+58,30.4,136.0,96.0,135.6,Ex-smoker (finding),1
+73,27.9,115.0,56.0,203.2,Never smoked tobacco (finding),0
+6,17.5,156.0,84.0,177.6,Never smoked tobacco (finding),0
+74,24.0,138.0,84.0,176.8,Never smoked tobacco (finding),1
+68,27.2,117.0,74.0,205.4,Ex-smoker (finding),1
+59,30.5,109.0,73.0,168.5,Never smoked tobacco (finding),0
+64,30.2,126.0,80.0,179.7,Ex-smoker (finding),0
+77,27.3,106.0,75.0,177.2,Ex-smoker (finding),0
+35,29.1,139.0,80.0,173.1,Ex-smoker (finding),0
+53,28.2,107.0,78.0,200.1,Never smoked tobacco (finding),0
+71,30.1,126.0,84.0,182.0,Never smoked tobacco (finding),0
+73,28.2,71.0,23.0,188.8,Never smoked tobacco (finding),1
+61,28.0,117.0,77.0,237.3,Never smoked tobacco (finding),1
+48,30.1,122.0,68.0,188.2,Never smoked tobacco (finding),1
+53,29.1,124.0,72.0,259.1,Never smoked tobacco (finding),0
+62,27.8,125.0,73.0,163.6,Never smoked tobacco (finding),1
+12,17.8,103.0,71.0,177.6,Never smoked tobacco (finding),0
+3,18.6,107.0,89.0,177.6,Never smoked tobacco (finding),0
+35,30.5,129.0,88.0,191.4,Never smoked tobacco (finding),0
+74,27.2,106.0,69.0,215.7,Never smoked tobacco (finding),1
+14,18.0,148.0,77.0,177.6,Never smoked tobacco (finding),0
+71,31.3,123.0,80.0,180.5,Never smoked tobacco (finding),0
+52,27.8,122.0,80.0,192.0,Never smoked tobacco (finding),1
+53,26.3,138.0,79.0,250.4,Never smoked tobacco (finding),0
+20,18.6,110.0,72.0,177.6,Smokes tobacco daily (finding),0
+45,28.2,146.0,77.0,177.1,Never smoked tobacco (finding),0
+4,16.0,130.0,79.0,177.6,Never smoked tobacco (finding),0
+5,15.6,121.0,72.0,177.6,Never smoked tobacco (finding),0
+53,28.5,116.0,72.0,194.3,Never smoked tobacco (finding),0
+8,13.8,101.0,71.0,177.6,Never smoked tobacco (finding),0
+6,16.4,127.0,75.0,177.6,Never smoked tobacco (finding),0
+53,30.2,112.0,85.0,192.1,Never smoked tobacco (finding),0
+71,27.9,110.0,85.0,208.3,Never smoked tobacco (finding),0
+58,37.5,115.0,78.0,155.8,Never smoked tobacco (finding),0
+81,29.9,127.0,103.0,153.7,Never smoked tobacco (finding),1
+70,27.3,76.0,52.0,84.2,Never smoked tobacco (finding),0
+65,28.4,98.0,76.0,208.1,Ex-smoker (finding),0
+35,30.2,121.0,82.0,192.8,Ex-smoker (finding),0
+55,30.4,90.0,43.0,181.1,Never smoked tobacco (finding),1
+1,27.8,117.0,78.0,177.6,Never smoked tobacco (finding),0
+21,18.4,121.0,85.0,177.6,Ex-smoker (finding),0
+46,30.2,133.0,77.0,150.8,Never smoked tobacco (finding),0
+5,16.1,142.0,85.0,177.6,Never smoked tobacco (finding),0
+12,19.1,132.0,93.0,177.6,Never smoked tobacco (finding),0
+110,29.2,61.6,63.4,177.6,Never smoked tobacco (finding),0
+32,24.7,124.0,81.0,154.2,Ex-smoker (finding),0
+17,25.1,108.0,82.0,177.6,Never smoked tobacco (finding),0
+43,30.1,148.0,81.0,154.8,Ex-smoker (finding),0
+3,15.7,123.0,83.0,177.6,Never smoked tobacco (finding),0
+53,28.8,129.0,61.0,280.4,Never smoked tobacco (finding),0
+81,30.2,110.0,63.0,168.3,Never smoked tobacco (finding),0
+60,24.6,138.0,86.0,177.6,Never smoked tobacco (finding),0
+26,24.6,129.0,85.0,177.6,Never smoked tobacco (finding),0
+73,27.6,129.0,79.0,151.3,Ex-smoker (finding),1
+71,27.6,91.0,70.0,259.5,Never smoked tobacco (finding),0
+33,27.8,94.0,71.0,130.0,Never smoked tobacco (finding),0
+78,28.9,98.0,86.0,111.6,Never smoked tobacco (finding),0
+60,27.2,123.0,107.0,173.2,Never smoked tobacco (finding),1
+110,27.7,96.0,76.0,170.5,Ex-smoker (finding),1
+15,19.9,136.0,70.0,177.6,Never smoked tobacco (finding),0
+45,30.5,111.0,71.0,208.7,Never smoked tobacco (finding),0
+81,27.6,102.0,58.0,190.2,Never smoked tobacco (finding),1
+31,27.3,109.0,82.0,177.0,Ex-smoker (finding),0
+33,30.1,98.0,73.0,128.7,Never smoked tobacco (finding),0
+47,30.2,121.0,84.0,195.2,Never smoked tobacco (finding),0
+73,30.0,124.0,70.0,297.0,Never smoked tobacco (finding),0
+10,23.4,122.0,75.0,177.6,Never smoked tobacco (finding),0
+20,19.1,142.0,74.0,177.6,Never smoked tobacco (finding),0
+21,24.5,107.0,78.0,177.6,Never smoked tobacco (finding),0
+30,27.5,129.0,83.0,177.6,Never smoked tobacco (finding),0
+34,27.4,124.0,81.0,212.6,Never smoked tobacco (finding),0
+77,29.7,105.0,81.0,134.1,Never smoked tobacco (finding),0
+70,27.8,117.0,57.0,206.9,Never smoked tobacco (finding),1
+6,15.4,104.0,64.0,177.6,Never smoked tobacco (finding),0
+81,29.7,91.0,61.0,181.4,Ex-smoker (finding),0
+50,30.3,98.0,71.0,142.6,Ex-smoker (finding),0
+110,27.6,83.0,62.0,159.8,Ex-smoker (finding),1
+67,27.5,120.0,62.0,200.9,Never smoked tobacco (finding),0
+48,30.3,120.0,78.0,197.9,Never smoked tobacco (finding),0
+33,32.7,125.0,88.0,175.1,Never smoked tobacco (finding),0
+49,16.3,130.0,80.0,177.6,Never smoked tobacco (finding),0
+43,30.3,116.0,76.0,136.8,Never smoked tobacco (finding),0
+43,27.9,110.0,66.0,271.3,Never smoked tobacco (finding),0
+30,26.7,146.0,82.0,187.9,Never smoked tobacco (finding),0
+49,30.6,93.0,64.0,192.9,Never smoked tobacco (finding),0
+26,30.3,121.0,84.0,177.6,Never smoked tobacco (finding),0
+68,27.6,122.0,70.0,218.8,Never smoked tobacco (finding),1
+22,25.8,113.0,77.0,177.6,Never smoked tobacco (finding),0
+55,27.3,115.0,66.0,222.5,Never smoked tobacco (finding),1
+68,27.9,130.0,80.0,155.0,Never smoked tobacco (finding),0
+34,29.7,111.0,80.0,123.7,Ex-smoker (finding),0
+45,23.9,119.0,93.0,318.0,Never smoked tobacco (finding),1
+42,28.2,125.0,75.0,136.0,Never smoked tobacco (finding),0
+25,30.7,152.0,83.0,177.6,Never smoked tobacco (finding),0
+43,28.4,124.0,96.0,180.8,Ex-smoker (finding),0
+25,27.2,99.0,69.0,177.6,Never smoked tobacco (finding),0
+73,30.1,116.0,77.0,173.6,Ex-smoker (finding),1
+45,28.0,124.0,73.0,203.4,Never smoked tobacco (finding),0
+19,18.3,131.0,74.0,177.6,Never smoked tobacco (finding),0
+57,30.3,131.0,98.0,167.0,Never smoked tobacco (finding),0
+46,29.4,147.0,71.0,246.1,Never smoked tobacco (finding),0
+19,21.7,112.0,65.0,177.6,Never smoked tobacco (finding),0
+49,30.2,100.0,71.0,122.0,Never smoked tobacco (finding),0
+7,15.5,94.0,72.0,177.6,Never smoked tobacco (finding),0
+97,28.1,127.0,88.0,208.2,Ex-smoker (finding),0
+8,15.3,157.0,86.0,177.6,Never smoked tobacco (finding),0
+3,15.4,125.0,71.0,177.6,Never smoked tobacco (finding),0
+11,16.2,106.0,70.0,177.6,Never smoked tobacco (finding),0
+28,29.9,128.0,72.0,177.6,Never smoked tobacco (finding),0
+21,23.0,112.0,71.0,177.6,Ex-smoker (finding),0
+83,27.4,105.0,55.0,180.1,Never smoked tobacco (finding),0
+26,30.5,128.0,69.0,177.6,Ex-smoker (finding),0
+25,28.0,60.0,50.0,147.0,Never smoked tobacco (finding),0
+74,23.3,131.0,77.0,206.6,Never smoked tobacco (finding),0
+26,24.8,123.0,83.0,177.6,Never smoked tobacco (finding),0
+97,27.2,116.0,65.0,257.6,Ex-smoker (finding),1
+110,41.5,127.0,83.0,144.0,Never smoked tobacco (finding),1
+45,30.5,102.0,81.0,168.2,Never smoked tobacco (finding),0
+49,30.3,140.0,71.0,160.0,Ex-smoker (finding),0
+61,28.1,139.0,103.0,189.6,Never smoked tobacco (finding),0
+66,28.8,65.0,66.0,109.9,Ex-smoker (finding),0
+81,27.8,129.0,79.0,168.8,Never smoked tobacco (finding),0
+50,27.6,127.0,93.0,294.0,Ex-smoker (finding),0
+73,30.5,97.0,67.0,173.7,Ex-smoker (finding),1
+97,27.4,121.0,78.0,183.8,Never smoked tobacco (finding),1
+28,25.6,122.0,84.0,177.6,Ex-smoker (finding),0
+33,28.0,129.0,65.0,178.2,Never smoked tobacco (finding),0
+8,17.6,120.0,90.0,177.6,Never smoked tobacco (finding),0
+53,29.1,141.0,92.0,165.0,Ex-smoker (finding),0
+73,30.4,106.0,54.0,192.7,Ex-smoker (finding),1
+72,28.0,144.0,107.0,165.3,Ex-smoker (finding),0
+73,23.9,93.0,76.0,199.3,Never smoked tobacco (finding),1
+41,27.8,121.0,84.0,158.0,Never smoked tobacco (finding),0
+50,28.2,123.0,84.0,188.5,Never smoked tobacco (finding),0
+46,23.3,91.0,73.0,168.0,Never smoked tobacco (finding),0
+110,27.8,107.0,51.0,111.0,Never smoked tobacco (finding),0
+81,25.0,124.0,80.0,143.7,Never smoked tobacco (finding),0
+97,27.5,119.0,71.0,161.8,Ex-smoker (finding),0
+24,32.7,102.0,66.0,177.6,Never smoked tobacco (finding),0
+30,30.3,124.0,73.0,177.6,Never smoked tobacco (finding),0
+61,30.4,115.0,88.0,151.4,Never smoked tobacco (finding),0
+29,28.9,123.0,80.0,177.6,Never smoked tobacco (finding),0
+93,27.2,116.0,89.0,149.8,Never smoked tobacco (finding),1
+45,27.3,107.0,67.0,202.0,Ex-smoker (finding),1
+19,20.3,132.0,73.0,177.6,Never smoked tobacco (finding),0
+97,27.1,72.0,59.0,164.5,Ex-smoker (finding),0
+55,30.0,119.0,85.0,225.3,Ex-smoker (finding),1
+7,16.5,139.0,82.0,177.6,Never smoked tobacco (finding),0
+33,29.6,126.0,70.0,206.5,Never smoked tobacco (finding),0
+44,30.1,96.0,83.0,147.3,Never smoked tobacco (finding),0
+110,27.7,91.0,52.0,145.7,Never smoked tobacco (finding),1
+41,30.1,115.0,62.0,194.8,Ex-smoker (finding),0
+18,19.4,123.0,73.0,177.6,Never smoked tobacco (finding),0
+63,29.5,112.0,88.0,141.0,Ex-smoker (finding),1
+81,29.5,109.0,89.0,148.2,Ex-smoker (finding),0
+55,31.4,116.0,74.0,152.9,Never smoked tobacco (finding),0
+74,30.0,115.0,82.0,81.2,Never smoked tobacco (finding),0
+33,30.4,118.0,81.0,170.0,Ex-smoker (finding),0
+49,27.2,117.0,73.0,253.0,Never smoked tobacco (finding),0
+72,30.4,93.0,56.0,139.6,Never smoked tobacco (finding),0
+37,28.0,96.0,65.0,201.6,Never smoked tobacco (finding),0
+65,30.2,113.0,86.0,106.8,Never smoked tobacco (finding),0
+81,34.3,117.0,72.0,177.6,Ex-smoker (finding),0
+63,30.2,135.0,71.0,216.3,Never smoked tobacco (finding),0
+24,30.1,119.0,74.0,177.6,Never smoked tobacco (finding),0
+110,27.9,106.0,67.0,175.7,Never smoked tobacco (finding),0
+42,19.5,115.0,69.0,177.6,Never smoked tobacco (finding),0
+57,27.5,115.0,60.0,258.1,Never smoked tobacco (finding),1
+42,29.5,107.0,80.0,178.8,Never smoked tobacco (finding),0
+72,29.1,95.0,86.0,177.1,Ex-smoker (finding),0
+48,28.4,128.0,84.0,201.1,Never smoked tobacco (finding),1
+59,30.0,120.0,74.0,162.2,Ex-smoker (finding),0
+26,22.9,101.0,85.0,177.6,Never smoked tobacco (finding),0
+88,28.9,124.0,80.0,224.5,Ex-smoker (finding),0
+56,28.1,114.0,71.0,126.4,Ex-smoker (finding),0
+18,22.9,124.0,74.0,177.6,Never smoked tobacco (finding),0
+59,28.1,108.0,72.0,168.5,Ex-smoker (finding),0
+2,15.0,115.0,85.0,177.6,Never smoked tobacco (finding),0
+48,30.3,116.0,82.0,277.0,Never smoked tobacco (finding),0
+81,27.4,119.0,90.0,218.7,Never smoked tobacco (finding),1
+19,22.4,111.0,79.0,177.6,Never smoked tobacco (finding),0
+35,30.3,111.0,75.0,175.1,Ex-smoker (finding),0
+74,27.3,90.0,73.0,77.3,Never smoked tobacco (finding),0
+45,27.8,109.0,77.0,166.2,Never smoked tobacco (finding),1
+59,27.8,112.0,72.0,143.4,Never smoked tobacco (finding),0
+31,25.1,101.0,76.0,182.9,Never smoked tobacco (finding),0
+2,27.8,91.0,80.0,177.6,Never smoked tobacco (finding),0
+28,28.6,104.0,65.0,177.6,Never smoked tobacco (finding),0
+20,22.0,136.0,82.0,177.6,Never smoked tobacco (finding),0
+45,30.5,125.0,84.0,252.0,Never smoked tobacco (finding),0
+72,17.7,103.0,67.0,177.6,Never smoked tobacco (finding),0
+43,28.1,110.0,74.0,211.4,Ex-smoker (finding),0
+61,27.9,85.0,72.0,212.9,Ex-smoker (finding),1
+88,28.3,118.0,73.0,202.5,Never smoked tobacco (finding),0
+12,17.5,95.0,81.0,177.6,Never smoked tobacco (finding),0
+23,24.6,116.0,91.0,177.6,Ex-smoker (finding),0
+72,30.3,144.0,90.0,197.5,Ex-smoker (finding),0
+14,24.7,131.0,84.0,177.6,Never smoked tobacco (finding),0
+88,30.5,98.0,72.0,176.2,Never smoked tobacco (finding),0
+39,29.5,140.0,78.0,156.1,Ex-smoker (finding),0
+57,27.6,108.0,96.0,170.5,Never smoked tobacco (finding),0
+79,27.6,114.0,78.0,161.5,Ex-smoker (finding),0
+52,29.1,124.0,77.0,163.3,Ex-smoker (finding),0
+6,15.9,109.0,79.0,177.6,Never smoked tobacco (finding),0
+88,33.2,122.0,75.0,163.4,Never smoked tobacco (finding),0
+52,27.4,129.0,87.0,159.8,Never smoked tobacco (finding),1
+17,24.9,113.0,84.0,177.6,Never smoked tobacco (finding),0
+57,28.5,129.0,95.0,146.4,Ex-smoker (finding),0
+23,23.9,120.0,77.0,177.6,Never smoked tobacco (finding),0
+77,29.9,128.0,101.0,167.8,Never smoked tobacco (finding),1
+30,29.8,100.0,76.0,177.6,Never smoked tobacco (finding),0
+65,30.3,118.0,101.0,303.8,Never smoked tobacco (finding),1
+79,30.4,91.0,73.0,164.5,Ex-smoker (finding),0
+43,30.2,86.0,74.0,125.4,Ex-smoker (finding),0
+24,22.5,122.0,81.0,177.6,Ex-smoker (finding),0
+110,28.0,108.0,63.0,208.0,Ex-smoker (finding),1
+51,27.8,128.0,94.0,87.0,Ex-smoker (finding),0
+60,30.1,108.0,92.0,159.9,Ex-smoker (finding),1
+55,28.3,95.0,83.0,146.9,Never smoked tobacco (finding),0
+7,15.9,108.0,78.0,177.6,Never smoked tobacco (finding),0
+58,29.5,87.7,55.2,168.4,Never smoked tobacco (finding),1
+12,19.5,113.0,71.0,177.6,Never smoked tobacco (finding),0
+59,28.1,128.0,78.0,130.5,Never smoked tobacco (finding),0
+58,30.1,124.0,86.0,207.1,Never smoked tobacco (finding),0
+15,19.6,125.0,80.0,177.6,Never smoked tobacco (finding),0
+56,28.2,132.0,102.0,118.2,Never smoked tobacco (finding),1
+42,30.2,139.0,84.0,133.1,Ex-smoker (finding),0
+50,28.8,105.0,81.0,258.6,Never smoked tobacco (finding),0
+11,18.6,118.0,73.0,177.6,Never smoked tobacco (finding),0
+84,28.2,100.0,78.0,174.6,Ex-smoker (finding),1
+58,27.5,109.0,69.0,172.8,Never smoked tobacco (finding),0
+29,29.4,120.0,80.0,177.6,Ex-smoker (finding),0
+11,19.4,117.0,76.0,177.6,Never smoked tobacco (finding),0
+62,30.3,117.0,72.0,126.0,Never smoked tobacco (finding),0
+33,28.3,110.0,86.0,296.5,Never smoked tobacco (finding),0
+0,27.8,120.0,81.0,177.6,Never smoked tobacco (finding),0
+34,30.3,132.0,93.0,151.7,Never smoked tobacco (finding),0
+77,29.5,117.0,86.0,130.4,Ex-smoker (finding),1
+39,29.7,129.0,76.0,159.7,Never smoked tobacco (finding),0
+33,25.5,133.0,85.0,202.0,Never smoked tobacco (finding),0
+24,28.5,121.0,77.0,177.6,Never smoked tobacco (finding),0
+30,25.3,130.0,83.0,177.6,Never smoked tobacco (finding),0
+56,30.3,92.0,78.0,126.8,Never smoked tobacco (finding),0
+9,15.7,114.0,77.0,177.6,Never smoked tobacco (finding),0
+9,19.4,129.0,82.0,177.6,Never smoked tobacco (finding),0
+58,28.1,111.0,83.0,179.8,Never smoked tobacco (finding),0
+66,30.4,131.0,88.0,113.9,Never smoked tobacco (finding),0
+65,27.5,129.0,70.0,111.0,Ex-smoker (finding),0
+32,28.8,139.0,76.0,166.2,Ex-smoker (finding),0
+10,14.5,111.0,83.0,177.6,Never smoked tobacco (finding),0
+77,27.5,115.0,75.0,179.9,Never smoked tobacco (finding),0
+56,28.6,107.0,87.0,125.4,Ex-smoker (finding),0
+47,27.7,105.0,73.0,224.1,Never smoked tobacco (finding),0
+84,27.2,102.0,85.0,164.4,Ex-smoker (finding),1
+61,23.0,108.0,90.0,274.0,Ex-smoker (finding),0
+54,28.2,116.0,75.0,177.5,Ex-smoker (finding),1
+49,27.4,139.0,84.0,171.5,Never smoked tobacco (finding),0
+40,27.4,126.0,71.0,137.5,Never smoked tobacco (finding),0
+27,28.4,130.0,89.0,177.6,Never smoked tobacco (finding),0
+56,27.3,101.0,81.0,130.8,Never smoked tobacco (finding),0
+58,30.3,129.0,87.0,108.9,Ex-smoker (finding),1
+77,27.4,135.0,88.0,121.2,Never smoked tobacco (finding),0
+6,16.3,126.0,81.0,177.6,Never smoked tobacco (finding),0
+39,28.8,104.0,82.0,133.1,Never smoked tobacco (finding),0
+41,29.5,105.0,83.0,190.4,Never smoked tobacco (finding),0
+26,29.5,93.0,78.0,177.6,Never smoked tobacco (finding),0
+38,30.0,135.0,75.0,195.3,Never smoked tobacco (finding),0
+28,27.0,116.0,80.0,177.6,Never smoked tobacco (finding),0
+44,28.8,132.0,76.0,151.2,Never smoked tobacco (finding),0
+7,15.8,122.0,99.0,177.6,Never smoked tobacco (finding),0
+2,18.4,142.0,90.0,177.6,Never smoked tobacco (finding),0
+56,28.4,114.0,79.0,171.9,Never smoked tobacco (finding),0
+13,17.6,140.0,92.0,177.6,Never smoked tobacco (finding),0
+8,16.7,124.0,85.0,177.6,Never smoked tobacco (finding),0
+48,28.1,111.0,78.0,236.9,Ex-smoker (finding),0
+58,30.1,137.0,79.0,172.1,Never smoked tobacco (finding),1
+42,27.6,108.0,77.0,163.5,Ex-smoker (finding),0
+16,18.3,119.0,79.0,177.6,Never smoked tobacco (finding),0
+53,27.9,134.0,84.0,205.4,Ex-smoker (finding),0
+34,28.6,102.0,80.0,152.5,Never smoked tobacco (finding),0
+24,22.7,97.0,73.0,177.6,Never smoked tobacco (finding),0
+21,28.3,105.0,73.0,177.6,Ex-smoker (finding),0
+36,28.6,128.0,88.0,113.7,Ex-smoker (finding),0
+15,21.3,133.0,78.0,177.6,Never smoked tobacco (finding),0
+23,21.2,117.0,82.0,177.6,Never smoked tobacco (finding),0
+3,17.9,115.0,90.0,177.6,Never smoked tobacco (finding),0
+47,30.0,129.0,96.0,203.7,Never smoked tobacco (finding),1
+12,20.6,135.0,89.0,177.6,Never smoked tobacco (finding),0
+8,16.8,106.0,69.0,177.6,Never smoked tobacco (finding),0
+20,27.0,130.0,87.0,177.6,Never smoked tobacco (finding),0
+22,24.5,95.0,69.0,177.6,Never smoked tobacco (finding),0
+52,28.3,124.0,104.0,277.8,Never smoked tobacco (finding),0
+61,25.0,135.0,81.0,129.1,Ex-smoker (finding),0
+71,27.4,112.0,58.0,136.4,Never smoked tobacco (finding),0
+24,24.0,128.0,72.0,177.6,Ex-smoker (finding),0
+53,30.4,106.0,73.0,122.7,Ex-smoker (finding),0
+60,29.0,123.0,75.0,169.9,Never smoked tobacco (finding),0
+31,28.5,122.0,85.0,177.0,Never smoked tobacco (finding),0
+58,30.1,129.0,75.0,281.1,Never smoked tobacco (finding),0
+65,36.0,134.0,64.0,235.8,Never smoked tobacco (finding),0
+17,20.2,131.0,81.0,177.6,Never smoked tobacco (finding),0
+15,18.9,99.0,77.0,177.6,Never smoked tobacco (finding),0
+6,13.1,120.0,77.0,177.6,Never smoked tobacco (finding),0
+2,27.8,115.0,90.0,177.6,Never smoked tobacco (finding),0
+17,19.0,137.0,73.0,177.6,Never smoked tobacco (finding),0
+18,28.8,101.0,75.0,177.6,Never smoked tobacco (finding),0
+71,27.3,134.0,76.0,302.5,Never smoked tobacco (finding),0
+32,29.2,130.0,79.0,217.0,Never smoked tobacco (finding),0
+30,29.9,87.0,72.0,118.0,Never smoked tobacco (finding),0
+43,16.6,101.0,73.0,177.6,Never smoked tobacco (finding),0
+18,24.2,130.0,85.0,177.6,Never smoked tobacco (finding),0
+30,26.3,109.0,78.0,177.6,Never smoked tobacco (finding),0
+60,28.5,133.0,84.0,201.0,Never smoked tobacco (finding),0
+41,30.7,114.0,87.0,161.9,Never smoked tobacco (finding),0
+76,30.1,126.0,77.0,151.7,Ex-smoker (finding),1
+44,27.6,148.0,109.0,257.7,Never smoked tobacco (finding),0
+43,30.1,100.0,87.0,233.3,Never smoked tobacco (finding),1
+58,30.2,111.0,94.0,285.8,Never smoked tobacco (finding),0
+41,33.3,126.0,84.0,103.4,Never smoked tobacco (finding),0
+32,29.8,112.0,79.0,149.8,Never smoked tobacco (finding),0
+27,24.6,119.0,68.0,177.6,Never smoked tobacco (finding),0
+27,28.6,112.0,70.0,177.6,Never smoked tobacco (finding),0
+16,24.6,111.0,84.0,177.6,Never smoked tobacco (finding),0
+17,33.7,120.0,92.0,177.6,Never smoked tobacco (finding),0
+83,28.5,129.0,78.0,120.4,Ex-smoker (finding),0
+49,29.4,118.0,71.0,167.8,Ex-smoker (finding),0
+48,28.8,102.0,73.0,201.6,Never smoked tobacco (finding),0
+15,25.9,118.0,88.0,177.6,Never smoked tobacco (finding),0
+48,29.5,116.0,77.0,160.7,Ex-smoker (finding),0
+24,21.3,126.0,81.0,177.6,Never smoked tobacco (finding),0
+66,28.0,122.0,100.0,184.4,Ex-smoker (finding),1
+81,30.5,129.0,82.0,157.4,Ex-smoker (finding),0
+69,27.3,110.0,73.0,160.5,Never smoked tobacco (finding),1
+79,28.9,110.0,72.0,109.7,Never smoked tobacco (finding),1
+23,23.9,110.0,83.0,177.6,Ex-smoker (finding),0
+39,27.9,123.0,78.0,268.0,Ex-smoker (finding),0
+31,29.3,102.0,73.0,175.1,Never smoked tobacco (finding),0
+56,27.2,110.0,66.0,191.9,Ex-smoker (finding),0
+79,27.8,116.0,56.0,213.4,Never smoked tobacco (finding),0
+18,22.8,128.0,74.0,177.6,Never smoked tobacco (finding),0
+22,35.3,128.0,77.0,177.6,Ex-smoker (finding),0
+6,17.6,118.0,74.0,177.6,Never smoked tobacco (finding),0
+18,25.4,135.0,80.0,177.6,Never smoked tobacco (finding),0
+54,30.3,130.0,82.0,157.9,Ex-smoker (finding),0
+59,26.3,117.0,75.0,164.7,Never smoked tobacco (finding),0
+79,30.6,104.0,59.0,124.4,Never smoked tobacco (finding),0
+66,30.3,83.0,70.0,151.4,Never smoked tobacco (finding),1
+21,25.5,115.0,71.0,177.6,Never smoked tobacco (finding),0
+49,27.9,104.0,74.0,173.1,Ex-smoker (finding),0
+12,19.3,116.0,76.0,177.6,Never smoked tobacco (finding),0
+53,31.5,120.0,89.0,131.2,Ex-smoker (finding),1
+69,27.1,125.0,85.0,232.8,Ex-smoker (finding),1
+66,26.5,122.0,88.0,184.9,Ex-smoker (finding),0
+7,14.6,119.0,72.0,177.6,Never smoked tobacco (finding),0
+79,27.4,109.0,58.0,166.9,Never smoked tobacco (finding),0
+64,30.0,99.0,76.0,185.9,Never smoked tobacco (finding),0
+19,20.9,116.0,96.0,177.6,Never smoked tobacco (finding),0
+3,17.3,108.0,68.0,177.6,Never smoked tobacco (finding),0
+39,31.0,121.0,89.0,135.5,Never smoked tobacco (finding),0
+45,29.4,106.0,88.0,220.6,Never smoked tobacco (finding),0
+27,17.3,137.0,78.0,177.6,Never smoked tobacco (finding),0
+19,18.4,135.0,78.0,177.6,Never smoked tobacco (finding),0
+60,27.8,105.0,80.0,189.9,Never smoked tobacco (finding),0
+27,27.4,129.0,87.0,177.6,Never smoked tobacco (finding),0
+38,29.2,111.0,73.0,253.7,Never smoked tobacco (finding),0
+81,27.3,149.0,101.0,201.3,Never smoked tobacco (finding),1
+69,27.6,138.0,91.0,275.9,Never smoked tobacco (finding),0
+38,30.9,96.0,64.0,220.4,Ex-smoker (finding),0
+19,20.5,144.0,83.0,177.6,Never smoked tobacco (finding),0
+41,29.9,111.0,75.0,163.0,Never smoked tobacco (finding),0
+72,27.9,134.0,102.0,307.4,Ex-smoker (finding),0
+74,27.4,125.0,70.0,200.5,Ex-smoker (finding),1
+72,28.2,108.0,99.0,253.1,Never smoked tobacco (finding),0
+32,28.2,108.0,81.0,154.9,Never smoked tobacco (finding),0
+13,17.2,101.0,85.0,177.6,Never smoked tobacco (finding),0
+81,25.7,142.0,104.0,183.8,Never smoked tobacco (finding),1
+0,27.8,100.0,76.0,177.6,Never smoked tobacco (finding),0
+30,27.9,96.0,65.0,154.0,Never smoked tobacco (finding),0
+6,16.0,137.0,71.0,177.6,Never smoked tobacco (finding),0
+2,27.8,94.0,75.0,177.6,Never smoked tobacco (finding),0
+42,29.3,103.0,79.0,295.7,Never smoked tobacco (finding),0
+22,27.7,141.0,94.0,177.6,Never smoked tobacco (finding),0
+48,27.5,119.0,83.0,165.9,Never smoked tobacco (finding),0
+28,24.1,115.0,79.0,177.6,Never smoked tobacco (finding),0
+44,28.2,145.0,86.0,194.9,Never smoked tobacco (finding),0
+58,15.5,101.0,95.0,177.6,Never smoked tobacco (finding),0
+74,28.1,122.0,100.0,203.7,Ex-smoker (finding),0
+55,30.1,109.0,90.0,302.0,Never smoked tobacco (finding),0
+74,27.8,150.0,103.0,188.2,Never smoked tobacco (finding),1
+72,27.2,115.0,98.0,156.3,Never smoked tobacco (finding),1
+27,22.9,121.0,71.0,177.6,Never smoked tobacco (finding),0
+62,27.7,132.0,90.0,184.0,Ex-smoker (finding),1
+55,28.1,135.0,111.0,133.7,Never smoked tobacco (finding),0
+43,27.2,108.0,79.0,207.5,Never smoked tobacco (finding),1
+58,29.4,121.0,84.0,164.9,Never smoked tobacco (finding),0
+57,30.4,111.0,84.0,196.2,Never smoked tobacco (finding),1
+19,24.7,121.0,81.0,177.6,Ex-smoker (finding),0
+64,29.9,113.0,67.0,138.5,Never smoked tobacco (finding),0
+57,27.8,102.0,80.0,166.5,Never smoked tobacco (finding),1
+19,18.9,108.0,86.0,177.6,Never smoked tobacco (finding),0
+4,16.9,130.0,90.0,177.6,Never smoked tobacco (finding),0
+22,23.6,125.0,79.0,177.6,Ex-smoker (finding),0
+72,29.3,116.0,79.0,149.5,Never smoked tobacco (finding),0
+54,29.7,73.3,44.5,202.9,Never smoked tobacco (finding),0
+66,27.3,99.0,78.0,186.2,Never smoked tobacco (finding),0
+77,27.7,145.0,100.0,302.4,Never smoked tobacco (finding),0
+54,27.3,124.0,91.0,166.8,Never smoked tobacco (finding),0
+9,20.1,122.0,77.0,177.6,Never smoked tobacco (finding),0
+71,28.2,101.0,77.0,231.7,Ex-smoker (finding),1
+11,18.2,128.0,82.0,177.6,Never smoked tobacco (finding),0
+64,30.3,127.0,94.0,191.6,Never smoked tobacco (finding),0
+45,30.0,143.0,91.0,195.1,Never smoked tobacco (finding),1
+54,27.7,130.0,85.0,167.0,Ex-smoker (finding),0
+60,27.7,128.0,86.0,154.7,Ex-smoker (finding),0
+77,36.9,117.0,109.0,198.3,Ex-smoker (finding),1
+41,27.7,137.0,77.0,270.7,Never smoked tobacco (finding),0
+53,30.1,132.0,76.0,163.3,Never smoked tobacco (finding),0
+9,18.5,112.0,77.0,177.6,Never smoked tobacco (finding),0
+54,27.9,137.0,105.0,200.9,Never smoked tobacco (finding),1
+11,17.8,110.0,87.0,177.6,Never smoked tobacco (finding),0
+6,15.7,143.0,78.0,177.6,Never smoked tobacco (finding),0
+20,18.7,135.0,82.0,177.6,Never smoked tobacco (finding),0
+21,18.5,140.4,83.7,177.6,Never smoked tobacco (finding),0
+31,43.6,115.0,79.0,177.1,Never smoked tobacco (finding),0
+25,21.6,117.0,75.0,177.6,Never smoked tobacco (finding),0
+53,28.4,109.0,83.0,133.0,Never smoked tobacco (finding),0
+25,21.6,98.0,79.0,177.6,Never smoked tobacco (finding),0
+7,13.7,149.0,86.0,177.6,Never smoked tobacco (finding),0
+29,25.9,117.0,79.0,177.6,Ex-smoker (finding),0
+62,30.1,111.0,84.0,160.7,Ex-smoker (finding),0
+46,30.2,133.0,85.0,206.1,Never smoked tobacco (finding),0
+41,31.4,148.0,97.0,272.1,Never smoked tobacco (finding),0
+28,28.9,109.0,84.0,177.6,Never smoked tobacco (finding),0
+18,26.8,124.0,93.0,177.6,Smokes tobacco daily (finding),0
+84,28.2,96.0,75.0,155.8,Ex-smoker (finding),0
+25,22.0,128.0,69.0,177.6,Never smoked tobacco (finding),0
+41,30.2,100.0,87.0,296.0,Never smoked tobacco (finding),0
+19,28.3,153.0,91.0,177.6,Never smoked tobacco (finding),0
+19,20.7,111.0,80.0,177.6,Never smoked tobacco (finding),0
+60,28.2,111.0,84.0,158.1,Never smoked tobacco (finding),0
+43,30.1,126.0,83.0,219.6,Never smoked tobacco (finding),0
+24,20.9,121.0,76.0,177.6,Never smoked tobacco (finding),1
+14,17.4,115.0,79.0,177.6,Never smoked tobacco (finding),0
+22,23.5,107.0,76.0,172.8,Never smoked tobacco (finding),0
+23,27.0,107.0,74.0,177.6,Never smoked tobacco (finding),0
+52,28.5,117.0,79.0,164.4,Never smoked tobacco (finding),0
+44,27.6,121.0,64.0,198.8,Never smoked tobacco (finding),0
+17,19.4,102.0,85.0,177.6,Never smoked tobacco (finding),0
+37,28.9,124.0,85.0,100.2,Never smoked tobacco (finding),0
+29,25.0,149.0,93.0,177.6,Ex-smoker (finding),0
+33,29.2,82.0,71.0,187.4,Never smoked tobacco (finding),0
+60,27.5,134.0,83.0,215.5,Never smoked tobacco (finding),1
+51,30.1,113.0,67.0,253.5,Never smoked tobacco (finding),0
+46,30.1,90.0,84.0,164.8,Never smoked tobacco (finding),0
+39,27.6,124.0,78.0,156.7,Never smoked tobacco (finding),0
+65,30.1,109.0,89.0,192.4,Ex-smoker (finding),0
+17,21.1,112.0,88.0,177.6,Never smoked tobacco (finding),0
+62,27.3,130.0,87.0,150.6,Never smoked tobacco (finding),0
+20,23.8,128.0,70.0,177.6,Never smoked tobacco (finding),0
+26,26.1,118.0,85.0,177.6,Never smoked tobacco (finding),0
+75,30.0,87.0,67.0,148.7,Ex-smoker (finding),1
+22,22.3,105.0,91.0,177.6,Ex-smoker (finding),0
+28,22.6,127.0,71.0,177.6,Never smoked tobacco (finding),0
+61,30.1,125.0,85.0,170.2,Ex-smoker (finding),0
+55,28.8,105.0,66.0,249.2,Ex-smoker (finding),1
+53,27.6,121.0,92.0,182.8,Never smoked tobacco (finding),0
+34,21.0,101.0,86.0,173.8,Never smoked tobacco (finding),0
+61,27.7,128.0,85.0,220.9,Never smoked tobacco (finding),1
+32,26.8,95.0,76.0,129.7,Never smoked tobacco (finding),0
+57,30.6,120.0,76.0,178.5,Never smoked tobacco (finding),0
+42,27.9,154.0,121.0,195.5,Never smoked tobacco (finding),1
+49,27.4,106.0,66.0,146.2,Never smoked tobacco (finding),0
+44,28.0,141.0,81.0,146.0,Never smoked tobacco (finding),0
+50,24.7,121.0,71.0,175.3,Never smoked tobacco (finding),0
+110,28.0,123.0,85.0,229.4,Never smoked tobacco (finding),1
+39,30.0,120.0,82.0,117.1,Never smoked tobacco (finding),0
+8,15.7,116.0,87.0,177.6,Never smoked tobacco (finding),0
+57,27.8,111.0,74.0,177.6,Never smoked tobacco (finding),0
+28,30.1,134.0,75.0,177.6,Never smoked tobacco (finding),0
+6,16.5,133.0,89.0,177.6,Never smoked tobacco (finding),0
+47,29.5,117.0,78.0,177.3,Never smoked tobacco (finding),1
+65,28.1,115.0,66.0,183.8,Ex-smoker (finding),0
+59,30.1,98.0,70.0,160.6,Never smoked tobacco (finding),0
+57,30.0,117.0,76.0,178.3,Ex-smoker (finding),0
+77,27.4,132.0,73.0,210.4,Ex-smoker (finding),1
+51,30.1,129.0,72.0,184.7,Never smoked tobacco (finding),0
+64,30.2,128.0,74.0,181.4,Never smoked tobacco (finding),0
+65,30.1,94.0,60.0,209.3,Ex-smoker (finding),0
+110,27.6,109.0,67.0,115.0,Never smoked tobacco (finding),0
+64,28.0,114.0,76.0,145.3,Ex-smoker (finding),0
+29,29.1,126.0,85.0,177.6,Never smoked tobacco (finding),0
+24,26.9,94.0,78.0,177.6,Never smoked tobacco (finding),0
+51,30.8,143.0,101.0,154.0,Never smoked tobacco (finding),0
+17,24.0,113.0,88.0,177.6,Never smoked tobacco (finding),0
+39,29.7,106.0,79.0,221.3,Never smoked tobacco (finding),0
+41,28.4,124.0,88.0,176.3,Never smoked tobacco (finding),0
+61,28.5,132.0,82.0,199.2,Never smoked tobacco (finding),0
+10,17.3,125.0,70.0,177.6,Never smoked tobacco (finding),0
+16,16.1,118.0,73.0,177.6,Never smoked tobacco (finding),0
+16,17.8,96.0,77.0,177.6,Never smoked tobacco (finding),0
+66,27.8,114.0,71.0,198.0,Never smoked tobacco (finding),1
+45,27.8,120.0,73.0,184.9,Ex-smoker (finding),0
+55,30.4,120.0,106.0,168.9,Never smoked tobacco (finding),1
+26,24.8,119.0,88.0,177.6,Never smoked tobacco (finding),0
+49,34.7,106.0,77.0,203.9,Never smoked tobacco (finding),1
+110,24.6,127.0,81.0,210.0,Never smoked tobacco (finding),0
+15,19.6,140.0,75.0,177.6,Never smoked tobacco (finding),0
+29,29.6,105.0,67.0,177.6,Never smoked tobacco (finding),0
+77,27.6,117.0,97.0,202.0,Never smoked tobacco (finding),1
+33,26.2,120.0,90.0,138.7,Never smoked tobacco (finding),0
+9,19.0,104.0,81.0,177.6,Never smoked tobacco (finding),0
+101,25.7,78.6,71.3,177.6,Ex-smoker (finding),0
+73,28.2,78.0,67.0,202.7,Never smoked tobacco (finding),1
+17,17.4,129.0,86.0,177.6,Never smoked tobacco (finding),0
+18,26.2,140.0,80.0,177.6,Never smoked tobacco (finding),0
+20,22.6,95.0,78.0,177.6,Never smoked tobacco (finding),0
+101,27.6,132.0,76.0,143.0,Never smoked tobacco (finding),0
+30,23.6,116.0,80.0,177.6,Never smoked tobacco (finding),0
+109,30.1,90.0,65.0,170.2,Never smoked tobacco (finding),0
+24,22.4,131.0,65.0,177.6,Never smoked tobacco (finding),0
+31,30.2,124.0,68.0,146.3,Ex-smoker (finding),0
+35,28.6,96.0,70.0,164.1,Never smoked tobacco (finding),0
+13,22.4,115.0,89.0,177.6,Never smoked tobacco (finding),0
+33,26.6,148.0,96.0,156.7,Never smoked tobacco (finding),0
+82,27.8,102.0,59.0,294.7,Never smoked tobacco (finding),0
+22,23.2,121.0,73.0,177.6,Never smoked tobacco (finding),0
+89,30.3,142.0,71.0,267.6,Never smoked tobacco (finding),0
+60,31.1,114.0,78.0,166.1,Never smoked tobacco (finding),0
+1,27.8,117.0,89.0,177.6,Never smoked tobacco (finding),0
+64,27.6,116.0,73.0,231.9,Never smoked tobacco (finding),1
+58,28.1,97.0,48.0,174.8,Ex-smoker (finding),1
+4,14.2,97.0,79.0,177.6,Never smoked tobacco (finding),0
+109,27.5,118.0,82.0,214.2,Never smoked tobacco (finding),1
+49,30.3,131.0,89.0,229.4,Never smoked tobacco (finding),0
+35,30.5,131.0,81.0,230.4,Never smoked tobacco (finding),0
+26,23.6,131.0,71.0,177.6,Ex-smoker (finding),0
+64,30.3,93.0,62.0,174.9,Ex-smoker (finding),1
+89,27.4,138.0,98.0,194.1,Ex-smoker (finding),1
+101,27.4,121.0,64.0,192.1,Ex-smoker (finding),1
+30,23.8,143.0,77.0,177.6,Never smoked tobacco (finding),0
+33,25.3,108.0,75.0,171.3,Never smoked tobacco (finding),0
+66,30.3,117.0,67.0,207.6,Never smoked tobacco (finding),0
+63,28.8,119.0,83.0,196.8,Ex-smoker (finding),0
+109,28.0,91.0,68.0,177.0,Never smoked tobacco (finding),0
+66,27.2,124.0,63.0,232.1,Never smoked tobacco (finding),1
+58,27.8,119.0,86.0,232.2,Never smoked tobacco (finding),1
+99,27.5,123.0,80.0,149.4,Never smoked tobacco (finding),0
+38,31.4,110.0,77.0,146.3,Ex-smoker (finding),0
+32,25.8,130.0,77.0,189.0,Never smoked tobacco (finding),0
+41,30.2,109.0,87.0,190.9,Never smoked tobacco (finding),0
+67,27.8,95.0,58.0,120.3,Never smoked tobacco (finding),0
+20,19.6,100.0,69.0,177.6,Never smoked tobacco (finding),0
+15,24.3,121.0,84.0,177.6,Never smoked tobacco (finding),0
+64,27.1,104.0,87.0,149.9,Never smoked tobacco (finding),1
+57,27.1,132.0,67.0,156.6,Never smoked tobacco (finding),0
+99,29.5,116.0,80.0,192.6,Never smoked tobacco (finding),0
+49,29.9,105.0,69.0,198.4,Never smoked tobacco (finding),0
+1,27.8,89.0,84.0,177.6,Never smoked tobacco (finding),0
+55,27.7,127.0,88.0,189.5,Ex-smoker (finding),0
+33,29.8,111.0,79.0,122.7,Never smoked tobacco (finding),0
+67,29.1,142.0,103.0,186.8,Never smoked tobacco (finding),1
+27,27.2,105.0,85.0,177.6,Never smoked tobacco (finding),0
+24,23.7,133.0,81.0,177.6,Never smoked tobacco (finding),0
+25,23.7,133.0,77.0,177.6,Never smoked tobacco (finding),0
+18,22.2,103.0,76.0,177.6,Never smoked tobacco (finding),0
+38,29.7,127.0,81.0,183.3,Never smoked tobacco (finding),0
+89,27.8,81.0,60.0,223.5,Never smoked tobacco (finding),1
+15,18.2,135.0,84.0,177.6,Never smoked tobacco (finding),0
+58,27.3,124.0,79.0,228.2,Ex-smoker (finding),0
+66,28.0,132.0,76.0,148.0,Never smoked tobacco (finding),0
+27,24.7,138.0,76.0,177.6,Ex-smoker (finding),0
+54,30.4,122.0,76.0,199.9,Never smoked tobacco (finding),0
+51,29.2,97.0,82.0,172.1,Ex-smoker (finding),0
+25,18.7,135.0,87.0,177.6,Never smoked tobacco (finding),0
+46,28.2,94.0,85.0,108.8,Ex-smoker (finding),0
+67,28.3,123.0,91.0,160.5,Never smoked tobacco (finding),1
+54,28.5,113.0,78.0,110.7,Never smoked tobacco (finding),0
+12,24.3,98.0,70.0,177.6,Never smoked tobacco (finding),0
+31,26.5,114.0,83.0,177.6,Never smoked tobacco (finding),0
+4,16.6,114.0,94.0,177.6,Never smoked tobacco (finding),0
+34,30.1,117.0,64.0,168.1,Never smoked tobacco (finding),0
+89,25.0,108.0,57.0,167.6,Ex-smoker (finding),1
+31,27.7,132.0,85.0,177.6,Never smoked tobacco (finding),0
+62,29.8,142.0,94.0,162.3,Never smoked tobacco (finding),1
+46,30.1,166.0,125.0,212.9,Never smoked tobacco (finding),1
+34,28.0,115.0,76.0,192.6,Never smoked tobacco (finding),0
+43,30.4,120.0,92.0,265.7,Never smoked tobacco (finding),0
+62,29.7,115.0,63.0,143.5,Never smoked tobacco (finding),0
+99,27.5,108.0,79.0,153.2,Never smoked tobacco (finding),1
+42,29.3,141.0,90.0,159.0,Ex-smoker (finding),0
+40,29.9,100.0,86.0,295.2,Never smoked tobacco (finding),0
+13,22.3,120.0,73.0,177.6,Never smoked tobacco (finding),0
+34,29.2,138.0,74.0,157.7,Ex-smoker (finding),0
+58,27.7,114.0,69.0,156.0,Never smoked tobacco (finding),0
+27,22.5,142.0,84.0,177.6,Never smoked tobacco (finding),0
+74,27.9,99.0,52.0,205.7,Ex-smoker (finding),0
+36,26.3,119.0,79.0,195.0,Never smoked tobacco (finding),0
+45,30.0,126.0,87.0,179.6,Never smoked tobacco (finding),0
+53,29.7,135.0,82.0,168.5,Never smoked tobacco (finding),0
+20,24.2,135.0,75.0,177.6,Never smoked tobacco (finding),0
+58,29.5,122.0,94.0,162.9,Ex-smoker (finding),0
+29,26.2,106.0,85.0,177.6,Never smoked tobacco (finding),0
+25,28.1,129.0,76.0,177.6,Never smoked tobacco (finding),0
+68,27.8,103.0,75.0,154.6,Never smoked tobacco (finding),0
+83,27.5,95.0,53.0,106.5,Never smoked tobacco (finding),0
+13,17.7,125.0,86.0,177.6,Never smoked tobacco (finding),0
+99,27.9,119.0,87.0,140.6,Ex-smoker (finding),0
+83,26.8,136.0,72.0,177.6,Never smoked tobacco (finding),0
+7,15.9,103.0,65.0,177.6,Never smoked tobacco (finding),0
+62,27.1,131.0,86.0,186.5,Never smoked tobacco (finding),0
+29,24.1,133.0,87.0,177.6,Never smoked tobacco (finding),0
+56,27.8,118.0,85.0,199.4,Never smoked tobacco (finding),0
+50,27.8,129.0,92.0,152.5,Never smoked tobacco (finding),0
+2,15.1,109.0,80.0,177.6,Never smoked tobacco (finding),0
+30,30.7,107.0,88.0,177.6,Never smoked tobacco (finding),0
+30,25.2,108.0,83.0,177.6,Ex-smoker (finding),0
+106,22.8,108.0,72.0,183.9,Never smoked tobacco (finding),0
+32,29.7,102.0,80.0,175.6,Never smoked tobacco (finding),0
+49,29.5,122.0,73.0,160.1,Never smoked tobacco (finding),0
+99,25.6,158.0,91.0,230.1,Ex-smoker (finding),1
+75,27.3,102.0,80.0,190.9,Never smoked tobacco (finding),1
+16,29.5,125.7,93.7,177.6,Never smoked tobacco (finding),0
+43,27.8,134.0,103.0,302.3,Never smoked tobacco (finding),0
+53,30.6,135.0,80.0,333.7,Ex-smoker (finding),0
+44,30.1,123.0,75.0,209.5,Never smoked tobacco (finding),0
+43,30.3,127.0,85.0,140.3,Never smoked tobacco (finding),0
+57,30.3,125.0,72.0,144.6,Ex-smoker (finding),0
+73,27.9,98.0,60.0,204.3,Never smoked tobacco (finding),0
+75,30.4,129.0,71.0,143.7,Ex-smoker (finding),0
+62,30.4,115.0,63.0,158.2,Never smoked tobacco (finding),1
+39,28.2,99.0,74.0,178.6,Never smoked tobacco (finding),0
+83,35.5,96.0,66.0,212.6,Never smoked tobacco (finding),1
+62,28.1,147.0,83.0,239.9,Ex-smoker (finding),1
+27,26.4,130.0,87.0,177.6,Never smoked tobacco (finding),0
+56,28.2,97.0,68.0,133.5,Never smoked tobacco (finding),0
+75,29.0,112.0,84.0,195.5,Never smoked tobacco (finding),0
+78,30.0,95.0,80.0,180.3,Ex-smoker (finding),0
+67,30.2,145.0,100.0,156.9,Ex-smoker (finding),0
+58,30.4,125.0,99.0,144.6,Never smoked tobacco (finding),0
+12,22.6,103.0,73.0,177.6,Never smoked tobacco (finding),0
+83,29.5,109.0,77.0,159.9,Ex-smoker (finding),0
+14,20.2,144.0,75.0,177.6,Never smoked tobacco (finding),0
+48,36.7,110.0,79.0,180.1,Never smoked tobacco (finding),0
+73,27.9,114.0,80.0,184.1,Ex-smoker (finding),0
+30,29.0,105.0,79.0,177.6,Ex-smoker (finding),0
+5,16.6,134.0,82.0,177.6,Never smoked tobacco (finding),0
+75,30.1,100.0,56.0,191.8,Ex-smoker (finding),1
+64,27.3,145.0,84.0,282.2,Never smoked tobacco (finding),0
+57,27.4,140.0,93.0,134.6,Ex-smoker (finding),0
+15,28.7,115.0,77.0,177.6,Never smoked tobacco (finding),0
+63,27.4,105.0,91.0,84.1,Ex-smoker (finding),1
+75,30.0,105.0,92.0,210.6,Never smoked tobacco (finding),0
+50,30.2,153.0,114.0,210.6,Never smoked tobacco (finding),1
+1,27.8,114.0,76.0,177.6,Never smoked tobacco (finding),0
+50,29.8,121.0,83.0,150.5,Never smoked tobacco (finding),0
+58,30.5,128.0,76.0,146.7,Never smoked tobacco (finding),0
+52,27.6,117.0,77.0,155.9,Never smoked tobacco (finding),0
+75,30.3,130.0,72.0,295.0,Never smoked tobacco (finding),0
+75,27.8,96.0,80.0,177.6,Never smoked tobacco (finding),0
+50,30.1,96.0,77.0,141.7,Never smoked tobacco (finding),0
+58,30.7,90.0,62.0,290.5,Never smoked tobacco (finding),0
+57,28.1,89.0,75.0,169.0,Never smoked tobacco (finding),0
+38,29.2,88.0,60.0,229.0,Never smoked tobacco (finding),0
+30,27.4,95.0,73.0,177.6,Never smoked tobacco (finding),0
+78,27.3,114.0,89.0,163.8,Ex-smoker (finding),1
+24,30.9,122.0,74.0,177.6,Never smoked tobacco (finding),0
+20,28.9,134.0,81.0,177.6,Never smoked tobacco (finding),0
+78,28.1,123.0,86.0,208.8,Never smoked tobacco (finding),0
+41,28.3,110.0,62.0,170.4,Never smoked tobacco (finding),0
+42,30.1,126.0,81.0,232.1,Never smoked tobacco (finding),1
+41,27.7,126.0,86.0,263.2,Never smoked tobacco (finding),0
+83,27.9,86.0,63.0,227.8,Never smoked tobacco (finding),1
+75,27.7,121.0,69.0,193.9,Never smoked tobacco (finding),0
+59,30.2,122.0,67.0,171.5,Never smoked tobacco (finding),0
+99,27.8,129.0,83.0,201.3,Ex-smoker (finding),1
+42,28.7,122.0,88.0,333.6,Never smoked tobacco (finding),0
+9,15.3,125.0,68.0,177.6,Never smoked tobacco (finding),0
+54,27.5,115.0,80.0,160.4,Never smoked tobacco (finding),0
+51,30.3,131.0,81.0,219.5,Never smoked tobacco (finding),0
+46,29.8,120.0,86.0,186.0,Never smoked tobacco (finding),0
+82,28.3,97.0,69.0,191.1,Never smoked tobacco (finding),0
+40,30.3,108.0,77.0,147.8,Ex-smoker (finding),0
+10,12.9,117.0,87.0,177.6,Never smoked tobacco (finding),0
+27,23.4,150.0,87.0,177.6,Never smoked tobacco (finding),0
+6,15.0,128.0,88.0,177.6,Never smoked tobacco (finding),0
+25,28.1,94.0,68.0,177.6,Never smoked tobacco (finding),0
+64,30.2,109.0,68.0,212.0,Ex-smoker (finding),0
+20,26.0,105.0,65.0,177.6,Never smoked tobacco (finding),0
+29,28.0,105.0,71.0,177.6,Never smoked tobacco (finding),0
+68,30.5,107.0,82.0,144.9,Never smoked tobacco (finding),0
+23,20.7,108.0,77.0,177.6,Never smoked tobacco (finding),0
+57,22.2,100.0,74.0,181.3,Never smoked tobacco (finding),0
+45,27.3,113.0,87.0,201.1,Never smoked tobacco (finding),1
+52,29.8,115.0,67.0,169.5,Never smoked tobacco (finding),0
+64,30.1,113.0,81.0,146.3,Never smoked tobacco (finding),0
+14,21.2,123.0,92.0,177.6,Never smoked tobacco (finding),0
+15,18.1,109.0,84.0,177.6,Never smoked tobacco (finding),0
+20,28.9,128.0,72.0,177.6,Ex-smoker (finding),0
+60,31.8,138.0,95.0,149.9,Ex-smoker (finding),0
+55,27.5,112.0,68.0,184.4,Never smoked tobacco (finding),0
+49,28.4,128.0,94.0,172.4,Never smoked tobacco (finding),0
+22,22.5,127.0,87.0,177.6,Never smoked tobacco (finding),0
+16,23.3,102.0,79.0,177.6,Smokes tobacco daily (finding),0
+13,22.7,139.0,71.0,177.6,Never smoked tobacco (finding),0
+26,24.3,114.0,78.0,177.6,Never smoked tobacco (finding),0
+32,30.7,136.0,86.0,203.4,Never smoked tobacco (finding),0
+77,30.2,131.0,92.0,155.6,Never smoked tobacco (finding),0
+16,25.6,121.0,72.0,177.6,Never smoked tobacco (finding),0
+37,28.2,107.0,70.0,150.8,Never smoked tobacco (finding),0
+3,16.7,116.0,67.0,177.6,Never smoked tobacco (finding),0
+82,27.4,112.0,73.0,163.1,Ex-smoker (finding),1
+66,30.0,106.0,66.0,161.5,Never smoked tobacco (finding),0
+13,18.1,121.0,86.0,177.6,Never smoked tobacco (finding),0
+32,28.8,134.0,75.0,182.9,Never smoked tobacco (finding),0
+46,30.3,139.0,87.0,175.3,Ex-smoker (finding),0
+27,24.5,108.0,90.0,177.6,Never smoked tobacco (finding),0
+64,27.4,97.0,59.0,144.3,Never smoked tobacco (finding),1
+65,27.7,121.0,62.0,194.8,Ex-smoker (finding),0
+49,29.2,120.0,71.0,179.0,Never smoked tobacco (finding),0
+74,27.7,114.0,69.0,247.4,Ex-smoker (finding),0
+3,16.4,124.0,73.0,177.6,Never smoked tobacco (finding),0
+46,27.5,104.0,76.0,168.8,Never smoked tobacco (finding),0
+66,28.5,123.0,80.0,285.1,Ex-smoker (finding),0
+43,29.2,111.0,86.0,177.6,Ex-smoker (finding),0
+29,24.7,138.0,86.0,177.6,Never smoked tobacco (finding),0
+52,27.9,144.0,83.0,328.7,Never smoked tobacco (finding),0
+50,30.1,109.0,72.0,270.9,Never smoked tobacco (finding),0
+22,24.7,102.0,88.0,177.6,Never smoked tobacco (finding),0
+57,36.2,122.0,78.0,186.2,Ex-smoker (finding),0
+6,15.4,117.0,75.0,177.6,Never smoked tobacco (finding),0
+35,29.3,139.0,76.0,201.4,Never smoked tobacco (finding),0
+53,28.6,105.0,74.0,206.4,Never smoked tobacco (finding),0
+43,29.2,138.0,84.0,214.6,Never smoked tobacco (finding),0
+82,28.3,118.0,59.0,138.4,Ex-smoker (finding),0
+83,28.5,110.0,75.0,154.4,Ex-smoker (finding),0
+76,29.6,132.0,102.0,186.2,Ex-smoker (finding),1
+68,28.3,119.0,105.0,198.3,Never smoked tobacco (finding),1
+24,28.2,102.0,72.0,177.6,Never smoked tobacco (finding),0
+21,28.6,113.0,79.0,177.6,Never smoked tobacco (finding),0
+37,28.4,135.0,94.0,147.5,Ex-smoker (finding),0
+58,23.3,128.0,83.0,196.7,Never smoked tobacco (finding),0
+110,27.6,87.0,55.0,177.8,Never smoked tobacco (finding),0
+22,25.1,143.0,83.0,177.6,Never smoked tobacco (finding),0
+32,27.4,131.0,72.0,171.1,Ex-smoker (finding),0
+76,30.5,94.0,47.0,307.6,Never smoked tobacco (finding),0
+10,20.0,119.0,82.0,177.6,Never smoked tobacco (finding),0
+83,28.0,112.0,79.0,143.2,Never smoked tobacco (finding),0
+9,16.0,116.0,87.0,177.6,Never smoked tobacco (finding),0
+63,28.1,98.0,66.0,225.7,Never smoked tobacco (finding),0
+38,30.3,134.0,91.0,145.5,Ex-smoker (finding),0
+9,14.5,132.0,76.0,177.6,Never smoked tobacco (finding),0
+10,15.0,137.0,80.0,177.6,Never smoked tobacco (finding),0
+9,15.8,139.0,84.0,177.6,Never smoked tobacco (finding),0
+34,27.9,103.0,70.0,140.3,Ex-smoker (finding),0
+83,27.9,87.0,55.0,225.3,Ex-smoker (finding),1
+33,30.3,134.0,79.0,210.7,Never smoked tobacco (finding),0
+63,28.5,119.0,81.0,297.1,Ex-smoker (finding),0
+83,29.9,112.0,82.0,166.5,Never smoked tobacco (finding),0
+23,21.7,82.0,78.0,177.6,Never smoked tobacco (finding),0
+81,27.9,81.0,61.0,156.6,Never smoked tobacco (finding),1
+13,16.5,95.0,70.0,177.6,Never smoked tobacco (finding),0
+29,28.1,148.0,77.0,177.6,Never smoked tobacco (finding),0
+42,27.3,137.0,71.0,217.4,Never smoked tobacco (finding),0
+5,14.5,102.0,78.0,177.6,Never smoked tobacco (finding),0
+51,30.3,113.0,79.0,157.3,Never smoked tobacco (finding),0
+33,25.4,118.0,81.0,126.9,Never smoked tobacco (finding),0
+22,27.2,117.0,76.0,177.6,Never smoked tobacco (finding),0
+52,34.6,130.0,80.0,176.7,Ex-smoker (finding),0
+16,25.3,124.0,91.0,177.6,Never smoked tobacco (finding),0
+20,26.4,141.0,78.0,177.6,Never smoked tobacco (finding),0
+49,28.0,136.0,70.0,215.5,Never smoked tobacco (finding),1
+83,28.0,117.0,76.0,171.9,Never smoked tobacco (finding),0
+7,17.4,130.0,82.0,177.6,Never smoked tobacco (finding),0
+42,24.2,140.0,82.0,177.6,Never smoked tobacco (finding),0
+29,26.8,106.0,73.0,177.6,Never smoked tobacco (finding),0
+67,27.6,124.0,79.0,126.3,Never smoked tobacco (finding),1
+46,27.4,107.0,66.0,296.4,Never smoked tobacco (finding),0
+4,16.4,134.0,88.0,177.6,Never smoked tobacco (finding),0
+39,20.7,124.0,79.0,197.5,Never smoked tobacco (finding),0
+42,27.9,102.0,74.0,169.3,Never smoked tobacco (finding),0
+49,27.8,126.0,89.0,193.9,Ex-smoker (finding),0
+49,31.5,96.0,71.0,168.9,Never smoked tobacco (finding),1
+43,28.3,145.0,98.0,129.8,Ex-smoker (finding),0
+49,15.8,118.0,81.0,177.6,Never smoked tobacco (finding),0
+42,27.3,118.0,90.0,139.1,Never smoked tobacco (finding),0
+51,28.0,111.0,89.0,192.5,Never smoked tobacco (finding),0
+60,27.3,103.0,75.0,284.7,Ex-smoker (finding),0
+49,28.2,94.0,75.0,175.8,Never smoked tobacco (finding),0
+83,27.8,113.0,82.0,163.3,Never smoked tobacco (finding),1
+61,28.2,106.0,76.0,176.3,Never smoked tobacco (finding),0
+105,27.9,89.0,59.0,145.5,Never smoked tobacco (finding),0
+21,19.8,111.0,87.0,177.6,Never smoked tobacco (finding),0
+105,16.8,117.0,81.0,177.6,Never smoked tobacco (finding),0
+26,27.4,149.0,80.0,177.6,Never smoked tobacco (finding),0
+67,30.1,121.0,74.0,148.6,Never smoked tobacco (finding),0
+69,27.0,97.0,80.0,176.1,Ex-smoker (finding),0
+8,16.1,116.0,81.0,177.6,Never smoked tobacco (finding),0
+58,30.2,104.0,66.0,175.2,Never smoked tobacco (finding),0
+64,28.0,109.0,57.0,222.7,Ex-smoker (finding),1
+56,30.3,109.0,78.0,150.5,Ex-smoker (finding),1
+7,14.1,92.0,60.0,177.6,Never smoked tobacco (finding),0
+47,30.1,108.0,73.0,140.0,Never smoked tobacco (finding),0
+16,18.7,91.0,67.0,177.6,Never smoked tobacco (finding),0
+68,27.9,102.0,70.0,167.4,Never smoked tobacco (finding),0
+7,15.2,108.0,78.0,177.6,Never smoked tobacco (finding),0
+20,25.5,130.0,94.0,177.6,Never smoked tobacco (finding),0
+35,27.4,110.0,87.0,154.7,Never smoked tobacco (finding),0
+50,28.0,132.0,75.0,272.7,Never smoked tobacco (finding),0
+77,21.9,139.0,88.0,183.2,Never smoked tobacco (finding),0
+11,16.3,133.0,87.0,177.6,Never smoked tobacco (finding),0
+31,26.7,123.0,74.0,177.6,Never smoked tobacco (finding),0
+34,29.7,109.0,73.0,217.8,Never smoked tobacco (finding),0
+29,24.3,134.0,77.0,177.6,Ex-smoker (finding),0
+43,30.1,118.0,74.0,158.6,Never smoked tobacco (finding),0
+68,27.6,145.0,95.0,174.4,Never smoked tobacco (finding),0
+49,28.1,123.0,77.0,131.5,Never smoked tobacco (finding),0
+32,34.7,101.0,67.0,176.4,Never smoked tobacco (finding),0
+91,16.0,114.0,81.0,177.6,Never smoked tobacco (finding),0
+3,16.6,154.0,82.0,177.6,Never smoked tobacco (finding),0
+84,30.4,112.0,89.0,279.0,Ex-smoker (finding),0
+49,28.0,120.0,82.0,154.7,Ex-smoker (finding),0
+45,30.2,133.0,93.0,126.3,Never smoked tobacco (finding),0
+4,16.3,104.0,64.0,177.6,Never smoked tobacco (finding),0
+58,30.5,97.0,77.0,142.0,Ex-smoker (finding),0
+5,18.0,110.0,71.0,177.6,Never smoked tobacco (finding),0
+77,27.5,102.0,74.0,188.1,Ex-smoker (finding),0
+50,27.4,106.0,71.0,150.8,Never smoked tobacco (finding),0
+42,27.4,150.0,77.0,158.5,Never smoked tobacco (finding),0
+3,14.9,135.0,78.0,177.6,Never smoked tobacco (finding),0
+61,27.8,135.0,89.0,177.6,Never smoked tobacco (finding),0
+83,30.1,121.0,97.0,284.0,Never smoked tobacco (finding),1
+29,23.1,148.0,91.0,177.6,Never smoked tobacco (finding),0
+84,30.3,117.0,96.0,173.0,Never smoked tobacco (finding),0
+28,28.3,140.0,81.0,177.6,Never smoked tobacco (finding),0
+61,29.6,136.0,71.0,182.3,Never smoked tobacco (finding),0
+27,27.8,137.0,79.0,177.6,Never smoked tobacco (finding),0
+62,27.5,96.0,65.0,139.2,Never smoked tobacco (finding),0
+105,29.8,99.0,68.0,216.9,Never smoked tobacco (finding),1
+61,30.1,106.0,83.0,122.1,Never smoked tobacco (finding),0
+61,27.0,129.0,82.0,156.1,Ex-smoker (finding),0
+61,28.2,103.0,71.0,258.3,Ex-smoker (finding),0
+83,30.5,110.0,80.0,181.7,Never smoked tobacco (finding),0
+61,29.4,79.0,73.0,185.3,Never smoked tobacco (finding),0
+61,24.7,64.8,68.2,177.6,Ex-smoker (finding),0
+78,27.7,72.0,47.0,110.6,Never smoked tobacco (finding),0
+23,22.7,137.0,86.0,177.6,Never smoked tobacco (finding),0
+61,29.7,141.0,80.0,189.5,Ex-smoker (finding),0
+50,27.2,122.0,69.0,284.3,Never smoked tobacco (finding),0
+83,27.5,69.0,42.0,205.8,Ex-smoker (finding),1
+105,31.8,102.0,81.0,254.3,Ex-smoker (finding),1
+91,30.6,113.0,85.0,182.3,Never smoked tobacco (finding),1
+96,20.6,141.0,86.0,177.6,Never smoked tobacco (finding),0
+56,28.7,103.0,76.0,175.6,Never smoked tobacco (finding),0
+11,20.9,117.0,66.0,177.6,Never smoked tobacco (finding),0
+51,27.6,114.0,79.0,181.5,Ex-smoker (finding),0
+83,28.0,115.0,88.0,222.8,Ex-smoker (finding),0
+73,28.0,107.0,63.0,178.1,Ex-smoker (finding),1
+109,27.9,100.0,60.0,257.1,Never smoked tobacco (finding),0
+105,27.5,105.0,79.0,174.8,Ex-smoker (finding),0
+14,22.0,123.0,77.0,177.6,Never smoked tobacco (finding),0
+49,30.4,123.0,103.0,208.6,Never smoked tobacco (finding),1
+36,30.4,133.0,84.0,150.9,Ex-smoker (finding),0
+35,28.2,151.0,87.0,162.5,Never smoked tobacco (finding),0
+48,28.6,143.0,106.0,179.7,Never smoked tobacco (finding),0
+53,30.2,108.0,79.0,142.4,Ex-smoker (finding),0
+96,27.6,133.0,83.0,148.4,Never smoked tobacco (finding),1
+50,30.1,102.0,81.0,205.1,Never smoked tobacco (finding),1
+3,14.2,102.0,84.0,177.6,Never smoked tobacco (finding),0
+73,28.2,102.0,53.0,140.7,Never smoked tobacco (finding),0
+47,30.4,118.0,83.0,208.7,Never smoked tobacco (finding),0
+5,15.6,121.0,74.0,177.6,Never smoked tobacco (finding),0
+57,27.8,103.0,80.0,178.8,Never smoked tobacco (finding),1
+84,27.5,122.0,82.0,229.7,Ex-smoker (finding),1
+26,23.8,113.0,69.0,177.6,Never smoked tobacco (finding),0
+48,27.6,130.0,106.0,154.5,Never smoked tobacco (finding),1
+43,29.2,140.0,88.0,113.3,Never smoked tobacco (finding),0
+51,17.1,137.0,87.0,177.6,Never smoked tobacco (finding),0
+63,28.0,111.0,71.0,268.1,Never smoked tobacco (finding),0
+45,26.0,110.0,87.0,164.7,Ex-smoker (finding),0
+96,27.2,124.0,80.0,193.0,Ex-smoker (finding),0
+84,29.5,95.0,75.0,154.6,Never smoked tobacco (finding),0
+65,27.5,108.0,73.0,211.6,Never smoked tobacco (finding),1
+51,27.5,100.0,82.0,150.2,Never smoked tobacco (finding),0
+46,27.8,133.0,90.0,163.1,Ex-smoker (finding),0
+30,30.0,98.0,76.0,177.6,Never smoked tobacco (finding),0
+54,19.2,131.0,85.0,177.6,Never smoked tobacco (finding),0
+78,30.7,120.0,79.0,159.3,Never smoked tobacco (finding),1
+25,24.6,138.0,87.0,177.6,Ex-smoker (finding),0
+63,28.3,123.0,84.0,143.6,Ex-smoker (finding),1
+22,30.7,119.3,66.0,177.6,Never smoked tobacco (finding),0
+21,26.2,126.0,78.0,177.6,Never smoked tobacco (finding),0
+23,22.2,107.0,66.0,177.6,Never smoked tobacco (finding),1
+54,29.2,112.0,88.0,179.3,Ex-smoker (finding),1
+71,28.4,134.0,100.0,231.8,Never smoked tobacco (finding),0
+19,18.9,120.0,67.0,177.6,Never smoked tobacco (finding),0
+78,21.7,106.0,58.0,177.0,Never smoked tobacco (finding),0
+5,15.1,128.0,87.0,177.6,Never smoked tobacco (finding),0
+15,20.7,125.0,84.0,177.6,Never smoked tobacco (finding),0
+18,24.9,132.0,91.0,177.6,Smokes tobacco daily (finding),0
+25,21.0,140.0,89.0,177.6,Never smoked tobacco (finding),0
+63,30.2,111.0,55.0,150.7,Never smoked tobacco (finding),0
+67,28.4,137.0,91.0,180.0,Never smoked tobacco (finding),0
+42,27.8,132.0,79.0,211.1,Never smoked tobacco (finding),0
+48,28.4,136.0,84.0,146.3,Never smoked tobacco (finding),0
+20,19.3,129.0,78.0,177.6,Ex-smoker (finding),0
+60,30.5,139.0,86.0,137.8,Never smoked tobacco (finding),0
+21,22.6,120.0,90.0,177.6,Never smoked tobacco (finding),0
+32,27.4,126.0,83.0,220.4,Never smoked tobacco (finding),0
+67,27.2,110.0,74.0,170.0,Ex-smoker (finding),0
+68,28.2,110.0,79.0,134.8,Ex-smoker (finding),0
+37,30.3,124.0,83.0,201.0,Never smoked tobacco (finding),1
+60,28.8,126.0,82.0,158.4,Never smoked tobacco (finding),1
+1,27.8,139.0,77.0,177.6,Never smoked tobacco (finding),0
+26,28.4,122.0,86.0,177.6,Never smoked tobacco (finding),0
+30,30.0,129.0,83.0,177.6,Never smoked tobacco (finding),0
+62,28.2,95.0,61.0,224.4,Never smoked tobacco (finding),1
+22,22.7,121.0,81.0,177.6,Ex-smoker (finding),0
+2,27.8,128.0,75.0,177.6,Never smoked tobacco (finding),0
+31,33.0,125.0,76.0,211.0,Never smoked tobacco (finding),0
+34,28.6,140.0,101.0,166.0,Never smoked tobacco (finding),1
+49,29.7,116.0,79.0,197.1,Never smoked tobacco (finding),1
+40,28.2,146.0,86.0,173.4,Never smoked tobacco (finding),0
+2,17.1,144.0,93.0,177.6,Never smoked tobacco (finding),0
+16,16.9,120.0,83.0,177.6,Never smoked tobacco (finding),0
+7,12.8,104.0,84.0,177.6,Never smoked tobacco (finding),0
+22,34.5,108.0,89.0,177.6,Never smoked tobacco (finding),0
+39,30.0,112.0,92.0,162.9,Never smoked tobacco (finding),0
+36,29.7,139.0,91.0,265.3,Never smoked tobacco (finding),0
+1,27.8,154.0,85.0,177.6,Never smoked tobacco (finding),0
+20,22.5,137.0,78.0,177.6,Never smoked tobacco (finding),0
+24,19.3,130.0,89.0,177.6,Never smoked tobacco (finding),0
+36,28.8,119.0,76.0,221.7,Never smoked tobacco (finding),0
+51,27.6,120.0,82.0,137.2,Ex-smoker (finding),0
+33,27.2,124.0,77.0,140.7,Never smoked tobacco (finding),0
+74,27.3,112.0,78.0,140.4,Ex-smoker (finding),0
+23,20.6,130.0,88.0,177.6,Ex-smoker (finding),0
+32,26.5,93.0,78.0,139.0,Never smoked tobacco (finding),0
+54,27.3,129.0,82.0,209.4,Never smoked tobacco (finding),0
+34,27.4,106.0,74.0,191.9,Never smoked tobacco (finding),0
+14,25.6,121.0,91.0,177.6,Never smoked tobacco (finding),0
+18,20.5,132.0,78.0,177.6,Smokes tobacco daily (finding),0
+71,30.3,118.0,86.0,165.0,Ex-smoker (finding),0
+63,27.0,103.0,57.0,183.8,Never smoked tobacco (finding),0
+17,19.4,118.0,73.0,177.6,Never smoked tobacco (finding),0
+9,19.5,139.0,92.0,177.6,Never smoked tobacco (finding),0
+74,27.4,136.0,91.0,184.2,Ex-smoker (finding),0
+7,18.4,138.0,86.0,177.6,Never smoked tobacco (finding),0
+4,16.3,126.0,72.0,177.6,Never smoked tobacco (finding),0
+33,30.0,102.0,69.0,143.7,Never smoked tobacco (finding),0
+16,21.7,137.0,85.0,177.6,Never smoked tobacco (finding),0
+76,27.9,98.0,86.0,82.9,Never smoked tobacco (finding),1
+50,30.3,142.0,85.0,222.5,Never smoked tobacco (finding),0
+28,22.5,135.0,86.0,177.6,Never smoked tobacco (finding),0
+63,28.4,127.0,118.0,128.3,Never smoked tobacco (finding),0
+61,28.0,119.0,71.0,184.9,Never smoked tobacco (finding),0
+55,27.2,128.0,78.0,187.5,Never smoked tobacco (finding),1
+23,20.2,113.0,77.0,177.6,Never smoked tobacco (finding),0
+15,26.3,83.0,88.0,177.6,Never smoked tobacco (finding),0
+34,31.8,128.0,72.0,161.8,Never smoked tobacco (finding),0
+26,23.8,105.0,83.0,177.6,Never smoked tobacco (finding),0
+18,24.3,116.0,83.0,177.6,Never smoked tobacco (finding),0
+47,27.9,96.0,87.0,217.0,Never smoked tobacco (finding),0
+11,19.6,113.0,79.0,177.6,Never smoked tobacco (finding),0
+58,30.0,122.0,75.0,207.1,Ex-smoker (finding),0
+71,27.3,128.0,94.0,161.3,Ex-smoker (finding),0
+0,27.8,111.0,88.0,177.6,Never smoked tobacco (finding),0
+6,16.3,120.0,71.0,177.6,Never smoked tobacco (finding),0
+24,27.5,119.0,82.0,177.6,Never smoked tobacco (finding),0
+26,27.8,134.0,87.0,177.6,Never smoked tobacco (finding),0
+49,30.5,104.0,71.0,209.4,Never smoked tobacco (finding),0
+21,20.9,121.0,75.0,177.6,Never smoked tobacco (finding),0
+45,16.9,116.0,85.0,177.6,Never smoked tobacco (finding),0
+27,28.6,141.0,86.0,177.6,Never smoked tobacco (finding),0
+17,24.2,125.0,73.0,177.6,Smokes tobacco daily (finding),0
+49,30.1,121.0,83.0,208.0,Never smoked tobacco (finding),0
+45,30.1,130.0,92.0,276.9,Never smoked tobacco (finding),0
+16,20.6,126.0,92.0,177.6,Never smoked tobacco (finding),0
+7,16.2,124.0,93.0,177.6,Never smoked tobacco (finding),0
+5,15.2,96.0,70.0,177.6,Never smoked tobacco (finding),0
+45,29.7,119.0,59.0,301.5,Never smoked tobacco (finding),0
+37,30.1,117.0,83.0,177.2,Never smoked tobacco (finding),0
+65,28.1,122.0,75.0,193.3,Never smoked tobacco (finding),1
+18,21.8,125.0,80.0,177.6,Never smoked tobacco (finding),0
+19,23.0,97.0,72.0,177.6,Never smoked tobacco (finding),0
+52,30.0,128.0,80.0,145.3,Never smoked tobacco (finding),0
+81,29.6,119.0,72.0,285.0,Never smoked tobacco (finding),0
+67,22.3,95.0,67.0,264.4,Ex-smoker (finding),0
+70,28.0,105.0,60.0,300.7,Ex-smoker (finding),0
+65,28.0,138.0,79.0,181.0,Never smoked tobacco (finding),0
+30,27.0,128.0,83.0,178.9,Ex-smoker (finding),0
+38,27.2,127.0,66.0,186.0,Never smoked tobacco (finding),0
+56,29.5,102.0,72.0,186.5,Never smoked tobacco (finding),0
+43,29.5,142.0,70.0,188.2,Ex-smoker (finding),0
+8,20.6,152.0,103.0,177.6,Never smoked tobacco (finding),0
+52,30.8,100.0,78.0,151.9,Never smoked tobacco (finding),0
+34,30.3,120.0,72.0,182.7,Never smoked tobacco (finding),0
+16,21.2,109.0,79.0,177.6,Never smoked tobacco (finding),0
+58,27.8,142.0,88.0,189.3,Never smoked tobacco (finding),0
+60,27.5,126.0,83.0,150.0,Ex-smoker (finding),1
+52,30.5,107.0,75.0,159.0,Never smoked tobacco (finding),0
+74,29.8,113.0,88.0,310.6,Never smoked tobacco (finding),0
+6,14.9,133.0,89.0,177.6,Never smoked tobacco (finding),0
+6,13.9,117.0,73.0,177.6,Never smoked tobacco (finding),0
+39,32.6,105.0,75.0,180.3,Never smoked tobacco (finding),0
+4,18.2,115.0,71.0,177.6,Never smoked tobacco (finding),0
+0,27.8,116.0,90.0,177.6,Never smoked tobacco (finding),0
+29,27.4,106.0,87.0,177.6,Never smoked tobacco (finding),0
+61,29.6,103.0,79.0,177.0,Never smoked tobacco (finding),0
+36,30.1,114.0,82.0,200.4,Never smoked tobacco (finding),0
+81,29.9,88.0,61.0,282.7,Ex-smoker (finding),0
+0,27.8,133.0,82.0,177.6,Never smoked tobacco (finding),0
+74,27.9,120.0,95.0,177.5,Never smoked tobacco (finding),0
+79,27.9,80.0,61.0,141.6,Ex-smoker (finding),0
+42,30.0,124.0,70.0,194.0,Ex-smoker (finding),0
+84,27.4,116.0,93.0,155.3,Never smoked tobacco (finding),1
+47,27.6,126.0,79.0,126.7,Never smoked tobacco (finding),0
+16,19.4,103.0,69.0,177.6,Never smoked tobacco (finding),0
+71,30.5,120.0,77.0,187.4,Never smoked tobacco (finding),0
+32,29.8,116.0,86.0,177.6,Never smoked tobacco (finding),0
+74,27.7,108.0,62.0,153.3,Never smoked tobacco (finding),0
+53,28.1,119.0,86.0,230.2,Never smoked tobacco (finding),0
+38,22.3,113.0,75.0,171.9,Never smoked tobacco (finding),0
+50,30.1,112.0,75.0,148.0,Never smoked tobacco (finding),0
+81,30.3,141.0,82.0,171.4,Never smoked tobacco (finding),1
+32,25.0,103.0,80.0,110.7,Never smoked tobacco (finding),0
+81,28.0,114.0,58.0,229.9,Ex-smoker (finding),1
+68,27.8,76.0,70.0,141.9,Ex-smoker (finding),1
+58,27.7,143.0,93.0,175.9,Never smoked tobacco (finding),1
+45,33.0,131.0,90.0,220.7,Never smoked tobacco (finding),0
+53,29.0,122.0,92.0,151.8,Never smoked tobacco (finding),0
+22,29.5,102.0,70.0,177.6,Never smoked tobacco (finding),0
+62,30.4,146.0,75.0,208.2,Never smoked tobacco (finding),0
+43,34.9,112.0,83.0,177.7,Never smoked tobacco (finding),0
+7,14.1,109.0,78.0,177.6,Never smoked tobacco (finding),0
+10,15.2,134.0,74.0,177.6,Never smoked tobacco (finding),0
+12,21.7,148.0,79.0,177.6,Never smoked tobacco (finding),0
+6,15.6,89.0,74.0,177.6,Never smoked tobacco (finding),0
+67,30.5,110.0,61.0,157.6,Never smoked tobacco (finding),1
+43,30.3,141.0,85.0,201.8,Never smoked tobacco (finding),0
+58,30.1,131.0,74.0,250.0,Never smoked tobacco (finding),0
+52,27.9,92.0,83.0,171.0,Never smoked tobacco (finding),0
+11,14.8,118.0,79.0,177.6,Never smoked tobacco (finding),0
+69,27.8,99.0,90.0,154.0,Never smoked tobacco (finding),0
+109,30.5,133.0,67.0,245.3,Ex-smoker (finding),1
+53,30.6,136.0,86.0,163.0,Never smoked tobacco (finding),0
+50,27.7,133.0,94.0,168.2,Never smoked tobacco (finding),0
+57,28.3,114.0,92.0,159.3,Never smoked tobacco (finding),0
+60,27.4,118.0,83.0,195.7,Never smoked tobacco (finding),0
+49,27.6,115.0,77.0,223.9,Ex-smoker (finding),0
+47,19.7,127.0,90.0,173.4,Ex-smoker (finding),0
+75,28.2,124.0,62.0,146.7,Never smoked tobacco (finding),0
+70,27.7,117.0,74.0,162.3,Never smoked tobacco (finding),0
+31,28.5,102.0,75.0,177.6,Never smoked tobacco (finding),0
+72,30.0,140.0,89.0,176.8,Never smoked tobacco (finding),1
+53,28.0,124.0,78.0,180.2,Ex-smoker (finding),0
+49,30.1,123.0,74.0,175.8,Never smoked tobacco (finding),0
+37,29.6,111.0,88.0,148.1,Never smoked tobacco (finding),0
+22,22.7,117.0,84.0,177.6,Never smoked tobacco (finding),0
+71,28.3,111.0,81.0,244.1,Ex-smoker (finding),0
+70,30.2,119.0,63.0,168.6,Never smoked tobacco (finding),1
+77,27.5,136.0,67.0,152.8,Ex-smoker (finding),0
+1,27.8,109.0,88.0,177.6,Never smoked tobacco (finding),0
+54,27.5,111.0,85.0,159.9,Never smoked tobacco (finding),0
+79,27.3,108.0,80.0,268.2,Never smoked tobacco (finding),0
+6,15.2,134.0,72.0,177.6,Never smoked tobacco (finding),0
+65,28.0,88.0,53.0,205.0,Never smoked tobacco (finding),0
+35,28.0,130.0,83.0,210.9,Never smoked tobacco (finding),0
+52,23.8,133.0,85.0,157.7,Ex-smoker (finding),0
+57,28.1,117.0,100.0,256.0,Never smoked tobacco (finding),0
+51,27.8,135.0,72.0,264.5,Ex-smoker (finding),0
+71,28.2,88.0,65.0,178.7,Never smoked tobacco (finding),0
+17,25.7,138.0,79.0,177.6,Never smoked tobacco (finding),0
+79,28.2,130.0,81.0,151.1,Ex-smoker (finding),0
+7,17.7,141.0,90.0,177.6,Never smoked tobacco (finding),0
+49,40.0,159.0,100.0,186.5,Never smoked tobacco (finding),0
+78,29.0,128.0,61.0,178.4,Never smoked tobacco (finding),0
+67,29.8,129.0,84.0,101.8,Never smoked tobacco (finding),1
+109,27.9,103.0,82.0,169.0,Ex-smoker (finding),1
+55,27.7,116.0,70.0,148.3,Never smoked tobacco (finding),0
+3,16.5,124.0,82.0,177.6,Never smoked tobacco (finding),0
+64,30.0,118.0,67.0,178.1,Ex-smoker (finding),0
+8,14.9,131.0,63.0,177.6,Never smoked tobacco (finding),0
+13,21.2,128.0,98.0,177.6,Never smoked tobacco (finding),0
+52,27.5,106.0,72.0,240.8,Never smoked tobacco (finding),0
+23,24.9,131.0,82.0,177.6,Never smoked tobacco (finding),0
+19,21.2,131.0,85.0,177.6,Never smoked tobacco (finding),0
+26,25.9,111.0,70.0,177.6,Never smoked tobacco (finding),0
+12,24.4,96.0,81.0,177.6,Never smoked tobacco (finding),0
+72,27.8,130.0,78.0,226.2,Ex-smoker (finding),1
+32,28.0,108.0,79.0,140.7,Never smoked tobacco (finding),0
+70,27.3,131.0,86.0,303.5,Ex-smoker (finding),0
+64,27.8,131.0,81.0,183.0,Never smoked tobacco (finding),0
+65,25.9,120.0,78.0,179.2,Never smoked tobacco (finding),0
+12,22.8,117.0,76.0,177.6,Never smoked tobacco (finding),0
+13,19.8,132.0,86.0,177.6,Never smoked tobacco (finding),0
+51,27.8,119.0,68.0,157.7,Never smoked tobacco (finding),0
+11,18.5,125.0,80.0,177.6,Never smoked tobacco (finding),0
+109,28.0,96.0,86.0,203.5,Never smoked tobacco (finding),0
+20,19.9,113.0,89.0,177.6,Ex-smoker (finding),0
+64,30.4,142.0,88.0,175.6,Ex-smoker (finding),0
+70,28.0,135.0,70.0,184.5,Never smoked tobacco (finding),0
+65,27.7,112.0,93.0,188.2,Never smoked tobacco (finding),0
+57,30.5,99.0,62.0,278.5,Ex-smoker (finding),0
+78,30.5,113.0,59.0,200.9,Never smoked tobacco (finding),1
+103,30.5,125.0,75.0,205.0,Never smoked tobacco (finding),0
+78,28.0,131.0,77.0,276.4,Ex-smoker (finding),0
+103,30.2,119.0,67.0,162.7,Ex-smoker (finding),0
+103,30.3,101.0,54.0,197.1,Never smoked tobacco (finding),0
