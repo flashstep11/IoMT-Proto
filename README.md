@@ -49,6 +49,23 @@ The app will open in your default browser. If it doesn't, Streamlit prints a loc
 
 If you need to regenerate models, check the training scripts (for example `train_fever_model.py`) or the Jupyter notebooks. Training may require additional dependencies and can take time.
 
+## App tabs (what each tab does)
+
+The Streamlit application (`app.py`) exposes two primary tabs in the UI. This section summarizes what each tab does so you know where to look and what to expect.
+
+- Tab 1 — "EHR Risk Predictor":
+	- This tab provides static Electronic Health Record (EHR) based risk prediction for three conditions: Type-2 Diabetes, Hypertension, and Chronic Kidney Disease (CKD).
+	- Inputs are provided in the sidebar (age, BMI, blood pressure, cholesterol, smoking status, diabetes/hypertension history, etc.).
+	- Each condition uses a pre-trained joblib model in `models/` (e.g., `diabetes_prediction_model.joblib`). If a model file is missing the UI will show an error message for that predictor.
+	- The Hypertension predictor includes a small "What-If" analysis: when you change the Smoking Status input, the UI displays risk score deltas for alternate smoking states so you can see how that single factor affects predicted risk.
+
+- Tab 2 — "Live Patient Monitor" (Fever prediction + Dashboard):
+	- This tab fetches recent IoT sensor data from ThingSpeak and computes engineered features over a 5-minute lookback window (mean, std, trend) for key signals such as temperature and heart rate.
+	- A persisted fever prediction model (`fever_model.joblib`) is loaded and used to predict the likelihood of a fever spike (> 38.0 °C) in the next 15 minutes.
+	- The tab also embeds a Chart.js-based dashboard (via Streamlit components) that auto-refreshes to show the latest sensor streams (HR, SpO₂, temperature, activity, sound level).
+	- Key Performance Indicators (KPIs) such as Latest Temperature, Latest Heart Rate, and Latest SpO₂ are shown alongside the model's confidence/risk score.
+	- Important: If no live ThingSpeak data is available (for example, data collection from the ESP32 is currently paused), the prediction section will not produce a fever prediction and the UI will display a warning like "Waiting for sufficient live data from ThingSpeak...". The dashboard charts may still attempt to load but will be empty or show placeholders until data becomes available.
+
 ## Notebooks — DO NOT EDIT / DO NOT RUN (unless you have the datasets)
 
 The repository includes several Jupyter notebooks (e.g., `01_end_to_end_diabetes_model.ipynb`, `02_hypertension_model.ipynb`, `03_ckd_model.ipynb`). These are included for demonstration and documentation only.
