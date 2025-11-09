@@ -2,6 +2,10 @@
 
 Lightweight prototype for an IoT + EHR medical monitoring demo (Streamlit).
 
+
+## DASHBOARD LINK
+https://flashstep-zzz.streamlit.app/
+
 ## What this repo contains
 
 - A Streamlit app: `app.py` — runs the demo UI that combines static EHR risk predictors with a live IoT vitals dashboard.
